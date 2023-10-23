@@ -1,4 +1,4 @@
-const bands = ["The Rolling Stones", "Pink Floyd", "The Beatles", "Led Zeppelin", "Nirvana"];
+const bands =['The Virupaksha Temple', 'Victoria Memorial', 'Tajmahal'];
 
 function stripArticle(name) {
   return name.replace(/^(a |an |the )/i, "").trim();
